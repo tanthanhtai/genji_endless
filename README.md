@@ -16,3 +16,6 @@ Commit 15 line
 ## Update
 This README has been updated for training purposes.
 Testing pull request
+fgsdsf
+sdfsd
+This repository is used for GitHub practice tasks.
